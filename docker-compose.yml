@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+  adminer:
+    image: adminer
+    ports:
+      - 9292:8080
